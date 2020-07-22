@@ -1,0 +1,23 @@
+.cent{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+
+img{
+    height: 450px;
+    width: 100%;
+}
+
+.showing {
+    display: none;
+  }
+
+.clickable {
+    cursor: pointer;
+    color: #0088cc;
+  }
+
+.clickable:hover {
+    text-decoration: underline;
+  }
